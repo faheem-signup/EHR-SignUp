@@ -1,0 +1,15 @@
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\DataAccess.deps.json
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\DataAccess.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\DataAccess.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\Core.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\Entities.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\Core.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\bin\Release\netstandard2.1\Entities.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.AssemblyInfo.cs
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.CopyComplete
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\DataAccess\obj\Release\netstandard2.1\DataAccess.pdb
