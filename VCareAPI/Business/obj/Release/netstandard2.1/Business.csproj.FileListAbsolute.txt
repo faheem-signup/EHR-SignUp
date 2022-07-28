@@ -1,0 +1,17 @@
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Business.deps.json
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Business.dll
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Business.pdb
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Core.dll
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\DataAccess.dll
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Entities.dll
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\DataAccess.pdb
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Entities.pdb
+D:\projectvcare\VCareDev\VCareAPI\Business\bin\Release\netstandard2.1\Core.pdb
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.csproj.AssemblyReference.cache
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.AssemblyInfoInputs.cache
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.AssemblyInfo.cs
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.csproj.CopyComplete
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.dll
+D:\projectvcare\VCareDev\VCareAPI\Business\obj\Release\netstandard2.1\Business.pdb
