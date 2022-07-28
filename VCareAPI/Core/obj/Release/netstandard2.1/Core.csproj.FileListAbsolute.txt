@@ -1,0 +1,9 @@
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\bin\Release\netstandard2.1\Core.deps.json
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\bin\Release\netstandard2.1\Core.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\bin\Release\netstandard2.1\Core.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\Core\obj\Release\netstandard2.1\Core.pdb
