@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = Business
+build_property.RootNamespace = Business
+build_property.ProjectDir = D:\projectvcare\VcareDev-V2\VCareAPI\Business\
