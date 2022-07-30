@@ -1,0 +1,90 @@
+﻿using Business.Handlers.ProcedureGroupToPractice.Commands;
+using Business.Handlers.ProcedureGroupToPractice.Queries;
+using DataAccess.Abstract.IAuditLogRepository;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace WebAPI.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ProcedureGroupToPracticesController : BaseApiController
+    {
+        private readonly IAuditLogRepository _auditLogRepository;
+        public ProcedureGroupToPracticesController(IAuditLogRepository auditLogRepository)
+        {
+            _auditLogRepository = auditLogRepository;
+        }
+
+        [HttpGet("getICDToPracticeList")]
+        public async Task<IActionResult> GetList([FromQuery] GetProcedureGroupToPracticesListQuery query)
+        {
+            try
+            {
+                var result = await Mediator.Send(query);
+                if (result.Success)
+                {
+                    return Ok(result);
+                }
+
+                return BadRequest(result.Message);
+            }
+            catch (Exception ex)
+            {
+                string actionName = this.ControllerContext.RouteData.Values["action"].ToString();
+                _auditLogRepository.WriteLog("ProcedureGroupToPracticesController : " + actionName + " : " + DateTime.Now + " : " + ex.Message);
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [Consumes("application/json")]
+        [Produces("application/json", "text/plain")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(string))]
+        [HttpPost("createICDToPractice")]
+        public async Task<IActionResult> Add([FromBody] CreateProcedureGroupToPracticesCommand createAppointmentReason)
+        {
+            try
+            {
+                var result = await Mediator.Send(createAppointmentReason);
+                if (result.Success)
+                {
+                    return Ok(result.Message);
+                }
+
+                return BadRequest(result.Message);
+            }
+            catch (Exception ex)
+            {
+                string actionName = this.ControllerContext.RouteData.Values["action"].ToString();
+                _auditLogRepository.WriteLog("ProcedureGroupToPracticesController : " + actionName + " : " + DateTime.Now + " : " + ex.Message);
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("getProcedureGroupWithProcedureSubGroupList")]
+        public async Task<IActionResult> GetList([FromQuery] GetProcedureGroupWithProcedureSubGroupListQuery query)
+        {
+            try
+            {
+                var result = await Mediator.Send(query);
+                if (result.Success)
+                {
+                    return Ok(result);
+                }
+
+                return BadRequest(result.Message);
+            }
+            catch (Exception ex)
+            {
+                string actionName = this.ControllerContext.RouteData.Values["action"].ToString();
+                _auditLogRepository.WriteLog("ProcedureGroupToPracticesvController : " + actionName + " : " + DateTime.Now + " : " + ex.Message);
+                return BadRequest(ex.Message);
+            }
+        }
+    }
+}
