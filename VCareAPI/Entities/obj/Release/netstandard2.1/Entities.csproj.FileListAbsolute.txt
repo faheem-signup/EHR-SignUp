@@ -1,0 +1,13 @@
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\bin\Release\netstandard2.1\Entities.deps.json
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\bin\Release\netstandard2.1\Entities.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\bin\Release\netstandard2.1\Entities.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\bin\Release\netstandard2.1\Core.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\bin\Release\netstandard2.1\Core.pdb
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.csproj.AssemblyReference.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.AssemblyInfoInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.AssemblyInfo.cs
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.csproj.CopyComplete
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.dll
+D:\projectvcare\VcareDev-V2\VCareAPI\Entities\obj\Release\netstandard2.1\Entities.pdb
